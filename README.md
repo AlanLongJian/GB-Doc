@@ -9,9 +9,17 @@
 | GM/T | 推荐性国家密码行业标准 | T-推荐 |
 
 - [GAT 文档](./GAT)
+
 - [GB 文档](./GB)
+
+  - [GB31241-2014](./GB/GB31241-2014.pdf)
+
 - [GBT 文档](./GBT)
+
 - [GMT 文档](./GM-Standards/README.md)
+
 - [参考文档](./REF)
+
 - [RFC 文档](./RFC)
+
 - [检测工具](./Tool)
